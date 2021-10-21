@@ -1,0 +1,28 @@
+body{
+  background-color: yellow;
+}
+
+.heading1a{
+  text-align: center;
+  font-size: 50px;
+}
+.heading1b{
+  font-size: 30px;
+  color: green;
+  padding-left: 70px;
+}
+
+.span1 {
+  color: red;
+  font-size: 25px;
+}
+
+img{
+  width:660px
+  height: 10px
+}
+
+*{
+  padding: opx;
+  margin: 0px;
+}
