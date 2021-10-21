@@ -1,28 +1,35 @@
 body{
-  background-color: yellow;
+  background-color: purple;
 }
 
 .heading1a{
   text-align: center;
-  font-size: 50px;
+  font-size: 55px;
+  color: red;
 }
+
 .heading1b{
-  font-size: 30px;
+  font-size: 50px;
   color: green;
   padding-left: 70px;
 }
 
 .span1 {
-  color: red;
+  color: blue;
   font-size: 25px;
 }
 
 img{
-  width:660px
-  height: 10px
+  width:300px;
+  height: 300px;
 }
 
 *{
   padding: opx;
   margin: 0px;
+}
+
+a{
+  padding-left: 300px;
+  color: red;
 }
